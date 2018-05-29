@@ -1,2 +1,2 @@
 # Stick-Hero-Clone
-to play use Space button
+To play use Space button
